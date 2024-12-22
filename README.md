@@ -402,5 +402,54 @@ INGAME_HOLOWEEN_BOSS_MODEL
 ```
 
 ## ZOMBIE MAPS 
+![Screenshot_2024-12-22-12-41-28-92_c28519d624689b8d548e2809af584b0c](https://github.com/user-attachments/assets/1f9c6b35-3ab5-427f-9f18-c692dcccd58f)
 
-![Uploading Screenshot_2024-12-22-12-41-28-92_c28519d624689b8d548e2809af584b0c.jpg…]()
+![Screenshot_2024-12-22-12-41-17-87_c28519d624689b8d548e2809af584b0c](https://github.com/user-attachments/assets/185828ee-9bda-47e2-bb3c-7cc4ddc94368)
+
+![Screenshot_2024-12-22-12-41-11-92_c28519d624689b8d548e2809af584b0c](https://github.com/user-attachments/assets/b15a0013-6c52-4401-a6a5-2381031474b5)
+
+![IMG_20241222_121439](https://github.com/user-attachments/assets/3b016182-6ad6-4027-9c7b-72e0cbe33b93)
+
+```
+INGAME_AIMODEL_ZOMBIE_Tyrant
+```
+
+![IMG_20241222_121201](https://github.com/user-attachments/assets/c1fbc377-37b6-42c7-a28a-dea1d776788a)
+
+```
+INGAME_AIMODEL_ZOMBIE_Mystery_Level1
+```
+
+![IMG_20241222_120923](https://github.com/user-attachments/assets/6388f648-304d-4fc5-a1d6-3a617e96eede)
+
+```
+INGAME_AIMODEL_ZOMBIE_Samurai
+```
+
+![IMG_20241222_120302](https://github.com/user-attachments/assets/0ce46377-2ec0-4ee9-bef8-87cf49fd9018)
+
+```
+INGAME_AIMODEL_ZOMBIE_EXPLOSIVE
+```
+
+![IMG_20241222_120030](https://github.com/user-attachments/assets/8521313f-a6e3-4a66-9845-770aeb5a95ed)
+
+```
+INGAME_AIMODEL_ZOMBIE_TANK03
+```
+
+![IMG_20241222_115203](https://github.com/user-attachments/assets/38c24f6b-ce3a-419f-8cd9-7cc2e26b49d8)
+
+```
+INGAME_AIMODEL_ZOMBIE_BURROW
+```
+
+![IMG_20241222_083455](https://github.com/user-attachments/assets/d2c1b7f4-0595-40c4-b845-404ceeaf2ff0)
+
+```
+INGAME_AIMODEL_ZOMBIE_FLYBOMBBAT
+```
+**MG**
+```
+INGAME_EGG_XMAS01
+```
