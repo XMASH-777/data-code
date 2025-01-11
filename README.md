@@ -465,6 +465,13 @@ INGAME_GLOOSHIELD_BRICK_FLOOR3X3
 INGAME_GLOOSHIELD_BRICK_INCLINE3X3
 ```
 
+![IMG_20250111_095545](https://github.com/user-attachments/assets/7b41a0c4-efc5-446e-b29f-28a987601cdc)
+
+```
+INGAME_GLOOSHIELD_BRICK_WALL3X3
+```
+
+
 ![IMG_20250101_224244](https://github.com/user-attachments/assets/733426dd-6b2c-4db7-b2af-01fc78bc0dbd)
 
 ```
