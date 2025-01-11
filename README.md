@@ -453,12 +453,18 @@ INGAME_AIMODEL_ZOMBIE_FLYBOMBBAT
 ```
 INGAME_EGG_XMAS01
 ```
+![IMG_20250111_094417](https://github.com/user-attachments/assets/e04b48c0-2512-4d79-9d86-83f5cb85afbc)
 
-![IMG_20241224_165440](https://github.com/user-attachments/assets/c54b38c2-4ad9-4909-bd50-9295792b574f)
 
 ```
 INGAME_GLOOSHIELD_BRICK_FLOOR3X3
 ```
+![IMG_20250111_095000](https://github.com/user-attachments/assets/017dd05e-25c2-4833-94b8-551686005d46)
+
+```
+INGAME_GLOOSHIELD_BRICK_INCLINE3X3
+```
+
 ![IMG_20250101_224244](https://github.com/user-attachments/assets/733426dd-6b2c-4db7-b2af-01fc78bc0dbd)
 
 ```
