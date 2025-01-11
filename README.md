@@ -487,4 +487,9 @@ INGAME_TOKEN_MORE
 ```
 INGAME_LEVEL_TOKEN_MACHINE
 ```
+![IMG_20250111_100736](https://github.com/user-attachments/assets/e9e2f2e7-b3c7-4385-b7af-0e0ddf090ec6)
+
+```
+INGAME_GLOOSHIELD_BUNKER_FFWC
+```
 
