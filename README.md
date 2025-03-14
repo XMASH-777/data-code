@@ -693,7 +693,7 @@ INGAME_AIMODEL_ZOMBIE_FLYBOMBBAT
 ingame/networkaipawn/zombiebat/model_zombiebat
 ```
 
-**MAGIC BULLET**
+# MAGIC BULLET
 ```
 INGAME_EGG_XMAS01
 ```
@@ -767,7 +767,7 @@ ingame/assistantitem/icewall_bunker_ffworldcup
 ```
 
 
-**ຕູ້ຊື້ຂອງ**
+# ຕູ້ຊື້ຂອງ
 ```
 INGAME_LEVEL_SHOP_MODEL
 ```
@@ -778,7 +778,7 @@ ingame/interactionobject/modelingameshop
 ```
 INGAME_LEVEL_RADAR
 ```
-**ງໍຄົງ ສກິວ**
+# ງໍຄົງ ສກິວ
 ```
 INGAME_ITEM_CAMOUFLAGE_BUSH
 ```
@@ -786,7 +786,7 @@ INGAME_ITEM_CAMOUFLAGE_BUSH
 ingame/camouflage/bushcover
 ```
 
-**ຫມັດ** 🤛🏻🤛🏻
+# ຫມັດ  🤛🏻🤛🏻
 ```
 EFFECT_DECALWOOD_01
 ```
@@ -794,7 +794,7 @@ EFFECT_DECALWOOD_01
 effects/decalwood01
 ```
 
-**ແອ່ດັບທົ່ວໄປ**
+# ແອ່ດັບທົ່ວໄປ
 ```
 INGAME_AIRDROPBOX
 ```
@@ -802,7 +802,7 @@ INGAME_AIRDROPBOX
 ingame/pickup/item/pickup_airdrop
 ```
 
-**ກອງຊ່ອນແອ່ດ້ອບ**
+# ກອງຊ່ອນແອ່ດ້ອບ
 ສີແດງ
 ```
 WS_TRIGGER_MESH_KILLZONE
@@ -819,7 +819,7 @@ WS_TRIGGER_MESH_GODZONE
 ingame/sceneedit/ws_props/ws_trigger_mesh_godzone
 ```
 
-**ມອງທະລຸ NPC NAME**
+# ມອງທະລຸ NPC NAME
 ```
 INGAME_NETWORKAI_PARTYNPC
 ```
