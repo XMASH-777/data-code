@@ -1,4 +1,20 @@
-# data-code
+# MY OWNER CODE
+```
+INGAME_CAPSULE_HUMAN
+```
+```
+ingame/capsulehuman
+```
+#   EMMY
+```
+INGAME_PLAYER_SNIPER_COLLIDER
+```
+```
+ingame/capsulehumansnipercollider
+```
+
+
+# DATA_CODE_CONFIG
 
 ![IMG_20241220_105101](https://github.com/user-attachments/assets/234533cf-ea4b-44e5-af04-304331efe703)
 
