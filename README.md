@@ -5,11 +5,17 @@
 ```
 VFX_INGAME_ITEM_LEVEL_GOLD
 ```
+```
+effects/vfxingameitemlevelgold
+```
 
 ![IMG_20241220_105637](https://github.com/user-attachments/assets/2fba210d-a45c-45f6-a1a9-0af355816850)
 
 ```
 VFX_INGAME_ITEM_LEVEL_BLUE
+```
+```
+effects/vfxingameitemlevelblue
 ```
 
 ![IMG_20241220_110016](https://github.com/user-attachments/assets/6c578c7d-72ac-4abd-8997-e727416e844a)
@@ -17,11 +23,17 @@ VFX_INGAME_ITEM_LEVEL_BLUE
 ```
 VFX_INGAME_ITEM_LEVEL_PURPLE
 ```
+```
+effects/vfxingameitemlevelpurple
+```
 
 ![IMG_20241220_110939](https://github.com/user-attachments/assets/5fde62f8-1f85-4630-9ba6-15f48afdef40)
 
 ```
 VFX_ITEM_HEALUAV_DIRECTARROW
+```
+```
+ingame/effects/item/vfx_item_healuav_directarrow
 ```
 
 ![IMG_20241220_111817](https://github.com/user-attachments/assets/230c1428-98d1-4d50-8d84-d16123d1fabc)
@@ -29,11 +41,17 @@ VFX_ITEM_HEALUAV_DIRECTARROW
 ```
 VFX_UAV_MAX
 ```
+```
+effects/vfx_uav_max
+```
 
 ![IMG_20241220_112345](https://github.com/user-attachments/assets/f03909da-9f98-4a51-bc0d-4b16070d3b90)
 
 ```
 VFX_ITEM_HealUAV_Green
+```
+```
+ingame/effects/item/vfx_item_healuav_green
 ```
 
 ![IMG_20241220_113024](https://github.com/user-attachments/assets/eb969c89-3976-46c5-b0ab-2084b1714484)
@@ -41,11 +59,17 @@ VFX_ITEM_HealUAV_Green
 ```
 VFX_TreasuryCharge
 ```
+```
+effects/vfx_treasurycharge
+```
 
 ![IMG_20241220_114053](https://github.com/user-attachments/assets/849f9ad1-47a3-42f6-9ef4-f836b7637c93)
 
 ```
 VFX_GLOO_DIGITALUNIVERSE
+```
+```
+effects/vfx_icewall/vfx_icewall_bunker_digitaluniverse
 ```
 
 ![IMG_20241220_115438](https://github.com/user-attachments/assets/aa5e8fd6-44bf-46de-99a3-3e7d8090e32d)
@@ -53,11 +77,17 @@ VFX_GLOO_DIGITALUNIVERSE
 ```
 VFX_GLOO_UNDERGROUND
 ```
+```
+effects/vfx_icewall/vfx_icewall_bunker_underground
+```
 
 ![IMG_20241220_115933](https://github.com/user-attachments/assets/15f84b34-9eac-42ec-8d69-3739ad3ba5be)
 
 ```
 VFX_GLOO_CROW
+```
+```
+effects/vfx_icewall/vfx_icewall_bunker_crow
 ```
 
 ![IMG_20241220_120558](https://github.com/user-attachments/assets/3d816cb7-600d-4e44-bc2c-8175033f73d6)
@@ -65,11 +95,17 @@ VFX_GLOO_CROW
 ```
 VFX_GLOO_FIREDRAGON
 ```
+```
+effects/vfx_icewall/vfx_icewall_bunker_firedragon
+```
 
 ![IMG_20241220_120847](https://github.com/user-attachments/assets/9b561663-10eb-499c-937b-4f06911908eb)
 
 ```
 VFX_GLOO_FIREDRAGON_BLUE
+```
+```
+effects/vfx_icewall/vfx_icewall_bunker_firedragon_blue
 ```
 
 ![IMG_20241220_121556](https://github.com/user-attachments/assets/ab9b0d6f-d452-44f0-bd22-6a758e7dec2f)
@@ -77,11 +113,17 @@ VFX_GLOO_FIREDRAGON_BLUE
 ```
 VFX_GLOO_GROWTH
 ```
+```
+effects/vfx_icewall/vfx_icewall_bunker_growth
+```
 
 ![IMG_20241220_122009](https://github.com/user-attachments/assets/1aa31786-1fdb-4111-9d98-9ea035b61a29)
 
 ```
 VFX_GLOO_WATERFEST23
+```
+```
+effects/vfx_icewall/vfx_icewall_bunker_waterfest23
 ```
 
 ![IMG_20241220_123511](https://github.com/user-attachments/assets/9d994e62-4939-40b7-a040-4ace4382875b)
@@ -89,11 +131,17 @@ VFX_GLOO_WATERFEST23
 ```
 BR_AIRDROPBOXLIGHT
 ```
+```
+effects/br_airdropboxlight
+```
 
 ![IMG_20241220_123749](https://github.com/user-attachments/assets/37964d32-ea87-49f5-8fbc-3f407011ee9f)
 
 ```
 BR_AIRDROPBARLIGHTLEVEL1
+```
+```
+effects/br_airdropbarlightlevel1
 ```
 
 ![IMG_20241220_123957](https://github.com/user-attachments/assets/148a2ef4-f910-4de3-a0a5-de443f3569f3)
@@ -101,11 +149,17 @@ BR_AIRDROPBARLIGHTLEVEL1
 ```
 BR_AIRDROPBARLIGHTLEVEL2
 ```
+```
+effects/br_airdropbarlightlevel2
+```
 
 ![IMG_20241220_124422](https://github.com/user-attachments/assets/85b4350f-8941-4f64-9ee3-c94de1b645b7)
 
 ```
 VFX_INGAME_LASER_TOKEN_OPPONENT
+```
+```
+effects/vfx_ingame_laser_redcard
 ```
 
 ![IMG_20241220_124701](https://github.com/user-attachments/assets/29525be1-0080-460a-9db3-94c0bce05792)
