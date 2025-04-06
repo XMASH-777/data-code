@@ -785,6 +785,12 @@ INGAME_ITEM_CAMOUFLAGE_BUSH
 ```
 ingame/camouflage/bushcover
 ```
+**Fly Hack**
+```
+INGAME_FOOTBALL
+```
+ingame/football/football_easter
+``
 
 # ຫມັດ  🤛🏻🤛🏻
 ```
